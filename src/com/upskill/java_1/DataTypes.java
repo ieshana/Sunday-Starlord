@@ -32,6 +32,9 @@ public class DataTypes {
  double i = 12.34;
  boolean j = false;
 
+ 
+//This line to validate git PR
+		System.out.println("Git Pull Request");
 	}
 
 } 

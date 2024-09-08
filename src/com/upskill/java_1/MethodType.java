@@ -35,5 +35,9 @@ public class MethodType {
 	public static void weeklyIncomeStatic(){
 		int calculateWeeklyIncome = hourlyIncome * 40;
 		System.out.println("My Weekly Income = " + calculateWeeklyIncome);
+		
+		
+		//This line to validate git PR
+		System.out.println("Git Pull Request");
 	}
 }
